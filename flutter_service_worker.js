@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "e08a8c73393277bb585b48f9f867b05f",
+  "assets/AssetManifest.json": "c90b7051a5ab426c6cf65911a9f4dd07",
 "assets/FontManifest.json": "367c7f23fff85f2c3011993aa87abdb9",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/google_fonts/Azonix.otf": "cdfe47b31e9184a55cf02eef1baf7240",
@@ -13,6 +13,8 @@ const RESOURCES = {
 "assets/google_fonts/Montserrat-Bold.ttf": "d14ad1035ae6da4e5a71eca362a8d696",
 "assets/google_fonts/Montserrat-Regular.ttf": "34de1239b12123b85ff1a68b58835a1f",
 "assets/img/1damir-kopezhanov-emm1EBmBoj0-unsplash.jpg": "9ecc7093b74ae5ef15158e4ca01a5525",
+"assets/img/applogo.png": "be3eaac36da8f3403d5a8fd20735ab45",
+"assets/img/app_logo.png": "c46fd0f1d3399c96290e6af2eedee705",
 "assets/img/bishop.jpg": "0c7b38d172e027fb311a1ca9e2b48a10",
 "assets/img/cyberthreat.jpg": "7861e4a71ce59f3c1f47ac811b52605b",
 "assets/img/help%20page%20icons/iconmonstr-location-pin-thin.svg": "c2a11b2a2c3c40d983d8dfd504d8cef1",
@@ -25,7 +27,6 @@ const RESOURCES = {
 "assets/img/homepage_icons/video.svg": "090990df32cf95ad41874f3a4ec159ea",
 "assets/img/homepage_icons/virus.svg": "bba635f1dc99a06e6dc9cc9fd2d9d786",
 "assets/img/knight.jpg": "e235b71c26499f17daaf1862455ce76f",
-"assets/img/NCL_LOGO.png": "e64a5e89e4d7127a8b7c905d89e179b9",
 "assets/img/pawn.jpg": "c251cf0f47fd1809227efa79970b21ba",
 "assets/img/pexels-akwice-3094799.jpg": "9d2ae9567e9749a72a12faa678bf1464",
 "assets/img/provide.jpg": "540656bda40acde8e44a697f8d3dc214",
@@ -45,9 +46,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "4020d3b4bd81f521df589bf891f0e89c",
-"/": "4020d3b4bd81f521df589bf891f0e89c",
-"main.dart.js": "08e0d85b9f3015f7b21ace1d381d3df9",
+"index.html": "e3b5814b0dd03bae7170fbd6d7709823",
+"/": "e3b5814b0dd03bae7170fbd6d7709823",
+"main.dart.js": "d7e5dce2be3d06666115b30a1cd78825",
 "manifest.json": "660a8775587c6a651c777ead70ff542b",
 "version.json": "6782f104daa381bde1e9c635c50fed35"
 };
